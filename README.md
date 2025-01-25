@@ -1,4 +1,4 @@
 # OS_LAB
-![screenshot](grep.png)
+![screenshot](grep.jpeg)
 
 
