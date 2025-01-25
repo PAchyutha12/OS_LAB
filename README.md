@@ -1,4 +1,4 @@
 # OS_LAB
-![screenshot](commands.png)
+![screenshot](grep.png)
 
 
