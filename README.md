@@ -1,4 +1,4 @@
 # OS_LAB
-![screenshot](Commands.png)
+![screenshot](commands.png)
 
 
