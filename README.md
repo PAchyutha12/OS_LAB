@@ -4,6 +4,7 @@
 ![screenshot](ls.jpeg)
 ![screenshot](grep.jpeg)
 ![screenshot](cp.jpeg)
+![screenshot](SystemCalls.png)
 
 
 
