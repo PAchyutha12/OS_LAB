@@ -7,7 +7,7 @@
 ![screenshot](SystemCalls.png)
 ![screenshot](FCFS.png)
 ![screenshot](SJF.png)
-![screenshot](Round_Robbin.png)
+![screenshot](robbin.png)
 ![screenshot](semaphore.png)
 ![screenshot](monitor.png)
 ![screenshot](concurrent_execution.png)
